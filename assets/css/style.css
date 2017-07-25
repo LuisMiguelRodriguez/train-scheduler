@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+input {
+  color: black;
+}
+
+
+#header {
+  background-color: brown;
+  color: white;
+  height: 300px;
+  max-width: 900px;
+  margin-bottom:20px;
+}
+
+#header .text-center {
+  padding:30px;
+}
+
+.brown {
+  background-color: brown;
+}
